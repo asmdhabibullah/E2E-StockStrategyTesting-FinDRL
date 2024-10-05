@@ -1,1 +1,1 @@
-# E2E-StockStrategyTesting-FinDRL
+# E2E-StrategyTesting-FinDRL-GPT
